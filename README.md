@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LucaScopigno
+- 👀 I’m interested in Bioinformatics
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me Scopigno.Luca@Gmail.Com
